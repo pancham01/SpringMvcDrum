@@ -1,0 +1,16 @@
+1st.-->  Create a Dynamic web project (do not forget to check web.xml).
+
+2--> convert dynamic web project to maven project
+
+3--> add spring web mvc dependency 
+
+4 --> complete servlet mapping and specify DispatcherServlet in it.
+
+5 --> Create a servlet.xml file for spring mvc beans.
+
+
+6 --> Search "green bean getting started spring mvc" for xsd file.
+
+7 --> Create a Controller class .
+
+8 --> create a JSP file.
