@@ -10,6 +10,8 @@ public class WelcomeController {
 	public String getResponse()
 	{
 		System.out.println("WelcomeController.getResponse()");
-		return "hello.jsp";
+		return "hello";
 	}
 }
+
+
