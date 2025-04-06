@@ -8,5 +8,6 @@
 </head>
 <body bgcolor="blue">
 	<h1>Welcome to the new ERA of Drum</h1>
+	<h2>${msg}</h2>
 </body>
 </html>
